@@ -1,2 +1,2 @@
 # gestaoVendas-db-scripts
-Este repositório conterá o desenvolvimento em SQL, da aplicação web, utilizando modelagem de dados.
+Este repositório conterá o desenvolvimento em SQL, do banco de dados, utilizando modelagem de dados.
